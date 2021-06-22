@@ -1,3 +1,3 @@
-# CNN
+# Basic ML
 
-Building Convolutional Neural Network from Scratch
+
