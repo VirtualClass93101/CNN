@@ -1,4 +1,83 @@
-Data
+MSSubClass    房屋類型(樓層高度,新屋...)
+MSZoning      住宅區類型(商業 工業 ...)
+LotFrontage   房屋離道路的距離
+LotArea       房屋面積
+Street        街道類型(碎石,平鋪)
+Alley         巷弄類型(碎石,平鋪)
+LotShape      房屋外觀形狀(規則,稍不規則...)
+LandContour   房子平坦度(非常平坦,很斜...)
+Utilities     公設(電,水...)
+LotConfig     房子相對位置(裡面,角落...)
+LandSlope     土地傾斜程度(平坦,斜...)
+Neighborhood  鄰里(Ames地理位置)
+Condition1    交通便利程度
+Condition2    交通便利程度2
+BldgType      房子類型(複合式,小家庭...)
+HouseStyle    房子類型(樓層數...)
+OverallQual   房屋材質(1-10分...)
+OverallCond   屋況(1-10分...)
+YearBuilt     建屋年份
+YearRemodAdd  重建年份
+RoofStyle     屋頂類型(尖尖的,馬薩式...)
+RoofMatl      屋頂材料(水泥,鐵...)
+Exterior1st   外牆(磚頭,木質...)
+Exterior2nd   外牆(磚頭,木質...)
+MasVnrType    外牆表面(磚頭,水泥...)
+MasVnrArea    外牆面積
+ExterQual     外牆結構狀況(棒,差...)    
+ExterCond     外牆表面狀況(棒,差...)
+Foundation    地基種類(磚頭,木質)
+BsmtQual      地下室高度
+BsmtCond      地下室狀況(棒,差...)
+BsmtExposure  走去草皮前的一塊地方(有,沒有...)
+BsmtFinType1  上述的裝潢(讚的可活動空間,遊戲室之類的...)
+BsmtFinSF1    上述的佔地
+BsmtFinType2  上述的質量(讚的可活動空間,可住宿...)
+BsmtUnfSF     扣除遊戲室之類的佔地面積
+TotalBsmtSF   上述總佔地面積
+Heating       暖氣類型(地熱,瓦斯...)
+HeatingQC     暖氣評價(讚,爛...)
+CentralAir    有無中央空調(有,無)
+Electrical    供電類型(...)
+1stFlrSF      一樓面積
+2ndFlrSF      貳樓面積
+LowQualFinSF  地板面積
+GrLivArea     能活動的面積
+BsmtFullBath  地下室衛浴
+BsmtHalfBath  地下室半套衛浴(只有廁所)
+FullBath      全套衛浴設備
+HalfBath      半套衛浴設備
+Bedroom       臥房數(不含地下室)
+KitchenAbvGr  廚房數量
+KitchenQual   廚房評分(讚,爛...)
+TotRmsAbvGrd  幾個獨立空間(不含浴室)
+Functional    屋子內部狀況
+Fireplaces    壁爐數量
+FireplaceQu   壁爐狀況(讚,爛...)
+GarageType    車庫位置(緊鄰房子,與房子分離...)
+GarageYrBlt   車庫建造年份
+GarageFinish  車庫裝修(完整,沒有...)
+GarageCars    車庫容納量
+GarageArea    車庫面積
+GarageQual    車庫質量(讚,爛...)
+GarageCond    車庫評分(讚,爛...)
+PavedDrive    車道種類(鋪磚,沙子...)
+WoodDeckSF    木地板面積
+OpenPorchSF   開放式門廊面積(屋頂下走到大門的那塊地)
+EnclosedPorch 封閉式門廊面積(屋頂下走到大門的那塊地)
+3SsnPorch     三季門廊面積(春夏秋)
+ScreenPorch   玻璃門廊面積
+PoolArea      泳池面積
+PoolQC        泳池評分(讚,沒有...)
+Fence         圍牆評分(讚,沒有...)
+MiscFeature   其他特色(電梯,網球場...)
+MiscVal       上述特色的價值
+MoSold        售出月份
+YrSold        售出年份
+SaleType      交易類型(契約...)
+SaleCondition 交易狀況(自售,法拍...)
+
+
 
 
 
