@@ -33,6 +33,7 @@ BsmtExposure  走去草皮前的一塊地方(有,沒有...)
 BsmtFinType1  上述的裝潢(讚的可活動空間,遊戲室之類的...)
 BsmtFinSF1    上述的佔地
 BsmtFinType2  上述的質量(讚的可活動空間,可住宿...)
+BsmtFinSF2    上述的佔地
 BsmtUnfSF     扣除遊戲室之類的佔地面積
 TotalBsmtSF   上述總佔地面積
 Heating       暖氣類型(地熱,瓦斯...)
@@ -48,7 +49,7 @@ BsmtHalfBath  地下室半套衛浴(只有廁所)
 FullBath      全套衛浴設備
 HalfBath      半套衛浴設備
 Bedroom       臥房數(不含地下室)
-KitchenAbvGr  廚房數量
+Kitchen       廚房數量
 KitchenQual   廚房評分(讚,爛...)
 TotRmsAbvGrd  幾個獨立空間(不含浴室)
 Functional    屋子內部狀況
